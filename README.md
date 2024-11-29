@@ -1,10 +1,10 @@
 Hey, I'm Rahul Singh
 
-I learning Full Stack Developer, Data science Using Python. 
+I am learning Full Stack Web Developer, Data science Using Python. 
 
-- 🛠 Currently Mastering DataScinece.
-- 🧠 passionated about problem-solving. 
+- 🛠 Currently Mastering Data Scinece...
+- 🧠 passionated about problem-solving... 
 - 🔗 I am Pursuing BCA Full Stack Web Development...
-- 🎯 Goal is to seek knowledge everyday..
+- 🎯 Goal is to seek knowledge everyday...
   
 Let’s code the future together!
